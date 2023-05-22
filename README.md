@@ -1,2 +1,2 @@
-# Automated-Domestic-Inventory-Management-System
+# Automated Domestic Inventory Management System
 Description Text
